@@ -12,15 +12,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
-
-### 💡 Soft Skills:
-- Teamwork 🤝  
-- Problem-solving 🔍  
-- Effective communication 💬  
-
----
-
 ### 🚀 Highlighted Projects:
 
 - **📱 [Chess App](https://github.com/irv-me/chess_app_2c)**  
@@ -34,10 +25,6 @@
 
 - **📊 Other Educational Projects**  
   Exercises in Python and Java, mobile apps, and CRUD systems that demonstrate my learning across different areas of development.
-
----
-
-
 
 ---
 
